@@ -1,7 +1,8 @@
 # A-Guide-to-Training-Monitoring-and-Deploying-Machine-Learning-Models-in-AWS
 
+Detail guide  : https://medium.com/aws-tip/a-guide-to-training-monitoring-and-deploying-machine-learning-models-in-aws-51bf2a3347ab
 
-# Summary of Steps for Machine Learning with Amazon SageMaker
+## Summary of Steps for Machine Learning with Amazon SageMaker
 
 1. **Introduction and Overview:**
    - Introduction to Amazon SageMaker as a cloud-based machine learning platform.
